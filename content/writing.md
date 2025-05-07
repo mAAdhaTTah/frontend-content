@@ -13,6 +13,6 @@ share: true
 
 This is my writing garden. I publish some thoughts, including essays, concepts, interpretations, and other scraps. I try to keep this updated as I learn new things so I can share these pages as my thinking evolves.
 
-I am building a writing/second-brain in Obsidian and publishing the knowledge I develop there on to the web. I'm a Software Engineer, which informs my second-brain-building, and you can find my thoughts on Software Engineering. I'm an organizer and write about Socialism.
+I am building a [writing/second-brain](/content/writing/second-brain.md) in Obsidian and publishing the knowledge I develop there on to the web. I'm a Software Engineer, which informs my second-brain-building, and you can find my thoughts on Software Engineering. I'm an organizer and write about Socialism.
 
 <RecentEssays />
