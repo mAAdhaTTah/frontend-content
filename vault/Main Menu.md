@@ -16,7 +16,6 @@ items:
     href: /talks/
   - text: Resume
     href: /resume/
-path: data
 slug: menu
 share: true
 ---
