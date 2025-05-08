@@ -191,6 +191,5 @@ projects:
     roles:
       - Lead Maintainer
 share: true
-path: data
 slug: jd-resume
 ---
